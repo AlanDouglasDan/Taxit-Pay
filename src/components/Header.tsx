@@ -95,7 +95,7 @@ export const Header = () => {
             color="brand.white.100"
             px="0"
           >
-            Log in
+            Login
           </Button>
 
           <Button
