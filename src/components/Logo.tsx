@@ -11,7 +11,7 @@ export const Logo: React.FC<LogoProps> = ({ onPress }) => {
     <Flex align="center" onClick={onPress} cursor="pointer">
       <Image
         src={IconImage}
-        w={{ base: "110px", md: "163px" }}
+        w={{ base: "80px", md: "163px" }}
         objectFit={"contain"}
       />
     </Flex>
