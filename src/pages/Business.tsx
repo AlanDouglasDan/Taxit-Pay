@@ -7,7 +7,7 @@ export const Business = () => {
     <div>
       <MainLayout>
         <Hero />
-        <PaymentTools mt={{ base: "17%", lg: "25%" }} />
+        <PaymentTools mt={{ base: "17%", lg: "25%", '2xl': "17%" }} />
         <GetStarted type="business" />
         <Banner />
       </MainLayout>
