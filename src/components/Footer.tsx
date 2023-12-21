@@ -59,7 +59,7 @@ export const Footer = () => {
             justify={{ base: "center", md: "flex-start" }}
             w={{ base: "100%", md: "auto" }}
           >
-            <Box>
+            <Box w="140px">
               <Text
                 color="brand.black.500"
                 fontWeight={600}
