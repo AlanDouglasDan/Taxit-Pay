@@ -28,7 +28,7 @@ export const Hero = () => {
                 fontWeight={600}
                 color="white"
                 textAlign={"center"}
-                lineHeight={"4rem"}
+                lineHeight={{ base: "3rem", lg: "4rem" }}
               >
                 Manage payroll, compliance & HR in real time
               </Text>

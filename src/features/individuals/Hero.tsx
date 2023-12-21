@@ -36,7 +36,7 @@ export const Hero = () => {
               fontWeight={600}
               color="white"
               textAlign={{ base: "center", lg: "left" }}
-              lineHeight={"4rem"}
+              lineHeight={{ base: "3rem", lg: "3.5rem", xl: "4rem" }}
             >
               Secure & seamless online transactions
             </Text>
